@@ -9,10 +9,18 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo/metro-runtime": "~5.0.4",
+    "@react-native-community/slider": "^4.5.7",
+    "axios": "^1.10.0",
     "expo": "~53.0.13",
     "expo-status-bar": "~2.2.3",
+    "lodash": "^4.17.21",
     "react": "19.0.0",
-    "react-native": "0.79.4"
+    "react-dom": "19.0.0",
+    "react-native": "0.79.4",
+    "react-native-maps": "1.20.1",
+    "react-native-web": "^0.20.0",
+    "expo-location": "~18.1.5"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
